@@ -16,4 +16,4 @@
 
 8. **Description of All Semantic Rules**: Encompasses type checking, variable declaration, scope resolution, function calls, memory management, and more, ensuring semantic correctness.
 
-These sections provide a comprehensive overview of the project's objectives, language constructs, implementation techniques, error handling, and semantic rules.
+
